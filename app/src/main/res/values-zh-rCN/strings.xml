@@ -49,6 +49,9 @@
     <string name="open_settings_label">打开设置</string>
     <string name="grant_permission_label">授予权限</string>
 
+    <string name="desktop_version_banner_text">桌面版即将到来，敬请关注！</string>
+
+    
     <string name="theme_title">主题</string>
     <string name="auto_label">跟随系统</string>
     <string name="light_label">浅色</string>
